@@ -1,0 +1,49 @@
+{
+    "nombre": "Real Madrid",
+    "año_fundacion": 1902,
+    "estadio": "Santiago Bernabéu",
+    "apodo": "Rey de Europa",
+    "entrenador_actual": "Carlo Ancelotti",
+    "titulos": {
+        "liga": 36,
+        "champions_league": 15,
+        "copa_del_rey": 20,
+        "supercopa_de_espana": 13,
+        "mundial_de_clubes": 5,
+        "supercopa_de_europa": 6
+    },
+    "jugadores_destacados": {
+        "delantero": [
+            "CRIATIANO RONALDO",
+            "Di Stéfano",
+            "Raúl González",
+            "Juanito",
+            "Puskas"]
+
+        ,"centrocampista":[
+            "Luca Modric",
+            "Ozil",
+            "Kroos",
+            "Zidane"]
+
+        ,"defensa":[
+            "Marcelo",
+            "Roberto Carlos",
+            "Sergio Ramos",
+            "Fabio Cannavaro"]
+
+        ,"portero":[
+            "Iker Casillas",
+            "Paco Buyo",
+            "Ricardo Zamora"]
+        },
+    "presidente": "Florentino Pérez",
+    "colores": {
+        "principal": "Blanco",
+        "secundario": "Morado"
+    },
+    "ubicacion": {
+        "ciudad": "Madrid",
+        "pais": "España"
+    }
+}
