@@ -27,4 +27,5 @@ print(f"Este club presidido por{RM["presidente"]} y entrenado por {RM["entrenado
     
 print() 
 
-    
+#Para mi sin duda el mejor jugador no es Di Stefano ni Iker Casillas o Zidane sino el delantero por excelencia: CRISTIANO RONALDO   
+print(f"Para mi sin duda el mejor jugador no es {RM["jugadores_destacados"]["delantero"][1]} ni {RM["jugadores_destacados"]["portero"][0]} o {RM["jugadores_destacados"]["centrocampista"][3]} sino el delantero por excelencia: {RM["jugadores_destacados"]["delantero"][0]}") 
